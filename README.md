@@ -1,9 +1,9 @@
 # Zomato-Data-Analysis
-Overview
+# Overview
 This project analyzes a Zomato dataset to gain insights into customer preferences, restaurant ratings, and ordering behaviors. The analysis helps identify trends in the food industry and provides useful insights for both customers and restaurant owners.
 
-Objectives
-The project aims to answer the following questions:
+# Objectives
+# The project aims to answer the following questions:
 
 What type of restaurant do the majority of customers order from?
 How many votes has each type of restaurant received from customers?
@@ -14,7 +14,7 @@ Which type of restaurant receives more offline orders?
 Dataset
 The dataset contains information about restaurants, customer ratings, order preferences, and spending behavior. It includes features such as restaurant type, number of votes, ratings, order mode, and spending details.
 
-Tools Used
+# Tools Used
 Python
 Pandas
 Matplotlib
